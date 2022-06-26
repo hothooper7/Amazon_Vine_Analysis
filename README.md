@@ -7,8 +7,14 @@ The dataset that was used is from the Amazon Review datasets page, and the categ
 
 ## Results
 
-1. How Many Vine reviews and non-Vine reviews were in the dataset?
+1. How many Vine reviews and non-Vine reviews were in the dataset?
 
 As demonstrated in the below image, there are 104 Vine (paid) reviews and 65,274 non-Vine (unpaid) reviews in the dataset.
 
 ![Vine vs  Non Vine Reviews](https://user-images.githubusercontent.com/100809925/175818136-6125df41-ae4a-4723-aa10-03c352a1ec95.jpeg)
+
+2. How many Vine reviews and non-Vine reviews were 5 stars?
+
+As demonstrated in the below image, there are 48 Vine (paid) 5 star reviews and 20,439 non-Vine (unpaid) 5 star reviews in the dataset.
+
+![5-Star Vine vs  5-Star non-Vine](https://user-images.githubusercontent.com/100809925/175818949-6b3f6c33-b94b-4524-810d-ed963d1aa0a2.jpeg)
