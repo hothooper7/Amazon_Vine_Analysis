@@ -25,3 +25,8 @@ AS demonstrated in the below image, 0.23% of 5 star reviews were from Vine (paid
 
 ![Percentage of 5 star reviews](https://user-images.githubusercontent.com/100809925/175819243-6825a2a9-64b9-4bcb-b10e-03bc93705f0f.jpeg)
 
+## Summary
+
+Based on my analysis, there does not seem to be any positivity bias for reviews in the Vine program.  Since the total number of 5 star reviews from Vine and non-Vine members was proportionate to the amount of subscribers in each group, it can be inferred that the paid subscriptions do not lead to better reviews.  An additional test on this dataset that would be insightful would be to see if there is any difference in the figures when the data is not filtered.
+
+To see if this research is an anomaly or if there doesn't exist bias between subscription types, this analysis should be performed on most or all of the various Amazon datasets.  To repeat the process would be very easy since the code has already been written and only a few changes would be necessary.  
